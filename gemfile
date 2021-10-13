@@ -1,0 +1,7 @@
+gem 'pry'
+gem 'twitter'
+gem 'rubocop'
+gem 'dotenv'
+gem 'rspec'
+ruby '3.0.2'
+source "https://rubygems.org"
